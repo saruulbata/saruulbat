@@ -1,0 +1,4 @@
+saruulbat
+=========
+
+Saruulbat drawing
